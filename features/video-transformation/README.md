@@ -47,7 +47,7 @@ The following table lists the codecs that ImageKit supports in input for resizin
 | mov              | mpeg4, h264            | aac         |
 | webm             | vp8, vp9, av1          | opus        |
 | mpeg             | mpeg1video, mpeg2video | mp2         |
-| 3gp              | h263                   | aac         |
+| 3gp              | h263                   | aac, amr_nb |
 | ogg              | theora                 | vorbis      |
 | ogv              | theora                 | vorbis      |
 | hevc             | hevc                   |             |
